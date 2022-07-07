@@ -9,8 +9,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Enthusiast;Business+Intelligence;Product+Development&center=true&width=500&height=50"></a>
 </p>
 
-<br>
-
 ## :sassy_woman:  About me
 - :school: 
 - :technologist: 
@@ -18,19 +16,16 @@
 - :student: 
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/)
 
-<br>
-
-<br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devanisdwi&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanisdwi&theme=gruvbox&hide_border=true" />
 </p>
 <br>
 
-[![Devanis Dwi Activity Graph](https://activity-graph.herokuapp.com/graph?username=devanisdwi&custom_title=Devanis%20Dwi's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+![Devanis Dwi Activity Graph](https://activity-graph.herokuapp.com/graph?username=devanisdwi&custom_title=Devanis%20Dwi's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 ------
 
-Credit: [devanisdwi](https://github.com/devanisdwi)
+Credit: [devanisdwi](https://www.linkedin.com/in/devanis-dwi-sutrisno/)
 
 Last Edited on: 07/07/2022
