@@ -5,7 +5,6 @@
 </div>
 
 <h1 align="center">Hi, I'm Devanis Dwi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://komarev.com/ghpvc/?username=devanisdwi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Enthusiast;Business+Intelligence;Product+Development&center=true&width=500&height=50"></a>
 </p>
@@ -26,6 +25,17 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devanisdwi&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanisdwi&theme=gruvbox&hide_border=true" />
 </p>
+<br>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:devanisdwis@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/devanisdwi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/devanis-dwi-sutrisno"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/devanisdwi"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
 <br>
 
 [![Devanis Dwi Activity Graph](https://activity-graph.herokuapp.com/graph?username=devanisdwi&custom_title=Devanis%20Dwi's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
