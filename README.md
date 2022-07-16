@@ -2,7 +2,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Enthusiast;Data+Analyst;Python+Developer;Business+Intelligence;Data+Engineer&center=true&width=500&height=50"></a>
 </p>
-Final year student majoring in Informatics who is working on a Thesis regarding Clustering in the Educational Data Mining field. Has some work experience as a laboratory assistant, maker of learning modules on databases and r programming, and also developer of Automation WebApps using Django and Streamlit framework. Aside from my experience in these fields, as well as data analysis, I also like to read and learn about Workflow Management System (WFMS) for Data using Apache Airflow Tool. Certainly, I’m open to an Intern or a New Job Opportunity.
+Final year student majoring in Informatics who is working on a Thesis regarding Clustering in the Educational Data Mining field. Has some work experience as a laboratory assistant, maker of learning modules on databases and R programming, and also developer of Automation WebApps using Django, Streamlit and Flask framework. Aside from my experience in these fields, as well as data analysis, I also like to read and learn about Workflow Management System (WFMS) for Data using Apache Airflow Tool. Certainly, I’m open to an Intern or a New Job Opportunity.
+
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devanisdwi&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanisdwi&theme=gruvbox&hide_border=true" />
