@@ -4,11 +4,7 @@
 </p>
 
 ## :sassy_woman:  About me
-- :school: 
-- :technologist: 
-- :computer:
-- :student: 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/)
+Final year student majoring in Informatics who is working on a Thesis regarding Clustering in the Educational Data Mining field. Has some work experience as a laboratory assistant, maker of learning modules on databases and r programming, and also developer of Automation WebApps using Django and Streamlit framework. Aside from my experience in these fields, as well as data analysis, I also like to read and learn about Workflow Management System (WFMS) for Data using Apache Airflow Tool. Certainly, I’m open to an Intern or a New Job Opportunity.
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=devanisdwi&show_icons=true&theme=gruvbox&hide_border=true" />
